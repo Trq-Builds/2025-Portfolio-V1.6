@@ -71,6 +71,8 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 * `🪨` **︲FMHY** ︲[`🌐`](https://smiley.cool/emoji-list.php)
 * `🤖` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
 * `📦` **︲Notion** ︲[`🌐`](https://www.notion.com/fr)
+* `🌐` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
+
   
 --- 
 
