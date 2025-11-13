@@ -59,23 +59,11 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 ---
 
 * `🤖` **︲Bolt.Mew** ︲[`🌐`](https://bolt.new/)
-* `🐋` **︲DeepSeekV3.2** ︲[`🌐`](https://www.deepseek.com/)
 * `📄` **︲Documents d’annexes fournis**
 * `🌐` **︲Donarev419.com** ︲[`🌐`](https://donarev419.com/)
 * `🪨` **︲FMHY** ︲[`🌐`](https://smiley.cool/emoji-list.php)
 * `🤖` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
-* `🍍` **︲HandBrake** ︲[`🌐`](https://handbrake.fr/)
-* `🤖` **︲KimiK2** ︲[`🌐`](https://www.kimi.com/)
-* `❓` **︲Markdownguide.org** ︲[`🌐`](https://www.markdownguide.org/)
-* `🤖` **︲NoteBookLM** ︲[`🌐`](https://notebooklm.google.com/)
 * `📦` **︲Notion** ︲[`🌐`](https://www.notion.com/fr)
-* `📌` **︲Pinterest** ︲[`🌐`](https://fr.pinterest.com/)
-* `🤖` **︲Qwen3-VL-235B-A22B** ︲[`🌐`](https://chat.qwen.ai/)
-* `✂️` **︲Screenpresso** ︲[`🌐`](https://www.screenpresso.com/fr/)
-* `😀` **︲Smiley.cool** ︲[`🌐`](https://smiley.cool/emoji-list.php)
-* `❓` **︲Syntaxe de base Markdown** ︲[`🌐`](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* `🛠️` **︲VMWare** ︲[`🌐`](https://www.vmware.com/)
-* `🔷` **︲VSCodium** ︲[`🌐`](https://vscodium.com/)
-
+  
 --- 
 
