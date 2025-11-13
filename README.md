@@ -6,7 +6,9 @@
 >
 > `👤`︲**Auteur :** *Trq-Builds*
 >
-> `🔸`︲**Statut :** En cours d’amélioration... (BETA) ♻️  
+> `🔸`︲**Statut :** En cours d’amélioration... (BETA) ♻️
+>
+> `🔸`︲**Source :** 
 
 ---
 
