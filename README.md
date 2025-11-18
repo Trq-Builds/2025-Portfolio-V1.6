@@ -12,7 +12,7 @@
 >
 > `🔸`︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 >
-> `🌐`︲**Lien :** https://tariq-laab.netlify.app/
+> `🌐`︲**Lien :** https://tariq-laab.netlify.app
 
 ---
 
@@ -67,12 +67,9 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 
 ---
 
-* `🤖` **︲Bolt** ︲[`🌐`](https://bolt.new/)
-* `🤖` **︲Claude** ︲[`🌐`](https://claude.ai/)
 * `📄` **︲Documents d’annexes fournis**
-* `🪨` **︲FMHY** ︲[`🌐`](https://smiley.cool/emoji-list.php)
 * `🤖` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
-* `📦` **︲Notion** ︲[`🌐`](https://www.notion.com/fr)
+* `🌐` **︲VSCodium** ︲[`🌐`](https://vscodium.com/)
 * `🌐` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
 
   
