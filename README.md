@@ -67,6 +67,8 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 
 ---
 
+- `🌐`︲**Source:** [`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
+
 * `📄` **︲Documents d’annexes fournis**
 * `🤖` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
 * `🌐` **︲VSCodium** ︲[`🌐`](https://vscodium.com/)
