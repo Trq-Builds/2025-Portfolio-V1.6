@@ -1,10 +1,10 @@
-# ` 👤 `︲2025-Portfolio-V1.4
+# ` 👤 `︲2025-Portfolio-V1.5
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/962b7ea2-72d2-44b1-afe4-f0c02d40a9c2/deploy-status)](https://app.netlify.com/projects/tariq-laab/deploys)
 
 ---
 
-- ` 🎈 `︲**Version :** 1.4 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**
+- ` 🎈 `︲**Version :** 1.5 — Réalisé dans le cadre du **BTS SIO - Option SISR (Épreuve E5, Session 2025)**
 
 - ` 👤 `︲**Auteur :** *Trq-Builds*
 
@@ -47,20 +47,20 @@ Arborescence ASCII :
 
 ---
 
-**Technique :**
+`🛢️`︲**Technique :**
 
-* `🧱` `📐` **HTML5 sémantique** avec balises structurantes (`<aside>`, `<article>`, `<section>`).
-* `🎨` `🧩` **CSS3 pur** avec variables personnalisées, Flexbox et Grid Layout.
-* `📱` `💻` `🖥️` **Design responsive** via media queries (4 breakpoints : 580px, 768px, 1024px, 1250px).
-* `🌙` `🎛️` **Thème sombre fixe** avec palette de couleurs cohérente.
-* `⚡` `📜` **JavaScript vanilla** pour navigation et filtres (sans dépendances).
+* `📐` ︲**HTML5 sémantique** avec balises structurantes (`<aside>`, `<article>`, `<section>`).
+* `🎨` ︲**CSS3 pur** avec variables personnalisées, Flexbox et Grid Layout.
+* `📱` ︲ **Design responsive** via media queries (4 breakpoints : 580px, 768px, 1024px, 1250px).
+* `🌙` ︲**Thème sombre fixe** avec palette de couleurs cohérente.
+* `📜` ︲**JavaScript vanilla** pour navigation et filtres (sans dépendances).
 
-**Architecture :**
+`⚡`︲**Architecture :**
 - Fichier CSS **unique** (non modularisé) intégrant responsive et animations.
 - Navigation par onglets avec système de filtrage pour le portfolio.
 - Hébergement prévu sur [Netlify](https://www.netlify.com/) avec déploiement automatique.
 
-**Limitations actuelles :**
+`🚧`︲**Limitations actuelles :**
 - Section Portfolio vide (en attente de projets...)
 - Thème sombre.
 
