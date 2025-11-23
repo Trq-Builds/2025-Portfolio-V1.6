@@ -71,7 +71,7 @@ Aucune dépendance, aucun build : le site est **100 % statique** et prêt à l�
 - ` 🤖 ` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
 - ` 🤖⚡ ` **︲lmarena.ai** ︲[`🌐`](https://lmarena.ai/)
 - ` 🌐 ` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
-- ` 🌐 ` **︲Source:** codewithsadee/vcard-personal-portfolio ︲[`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
+- ` 🌐 ` **︲Code Source:** codewithsadee/vcard-personal-portfolio ︲[`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
 - ` 🌐 ` **︲VisualStudioCode (IDE)** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
