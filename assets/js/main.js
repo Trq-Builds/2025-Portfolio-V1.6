@@ -19,32 +19,34 @@ const render = (selector, html) => {
 
 // --- 2. GENERATION NAVBAR (Le correctif manquant) ---
 function loadNavbar() {
-    // Liste des pages basées sur tes <article data-page="...">
-    const pages = ["À propos", "Parcours", "Portfolio"];
-    
-    const navHTML = pages.map((page, index) => {
-        // La première page est active par défaut
-        const activeClass = index === 0 ? 'active' : ''; 
-        return `
-            <li class="navbar-item">
-                <button class="navbar-link ${activeClass}" data-nav-link>${page}</button>
-            </li>
-        `;
-    }).join('');
-    
-    render('.navbar-list', navHTML);
+  // Liste des pages basées sur tes <article data-page="...">
+  const pages = [
+    { label: "À propos", id: "about" },
+    { label: "Parcours", id: "resume" },
+    { label: "Portfolio", id: "portfolio" }
+  ];
+
+  const navHTML = pages.map((page, index) => `
+  <li class="navbar-item">
+      <button class="navbar-link ${index === 0 ? 'active' : ''}" data-nav-link="${page.id}">
+          ${page.label}
+      </button>
+  </li>
+`).join('');
+
+  render('.navbar-list', navHTML);
 }
 
 // --- 3. INJECTION DU PROFIL ---
 function loadProfile() {
   const imgEl = getElement('.avatar-box img');
-  if(imgEl) imgEl.src = profileData.avatar;
-  
+  if (imgEl) imgEl.src = profileData.avatar;
+
   const nameEl = getElement('.info-content .name');
-  if(nameEl) nameEl.textContent = profileData.name;
-  
+  if (nameEl) nameEl.textContent = profileData.name;
+
   const roleEl = getElement('.info-content .title');
-  if(roleEl) roleEl.textContent = profileData.role;
+  if (roleEl) roleEl.textContent = profileData.role;
 
   // Contact
   const contactHTML = `
@@ -163,31 +165,36 @@ function loadPortfolio() {
 // --- 5. LOGIQUE D'INTERACTION ---
 
 function setupNavigation() {
-  const navLinks = getAllElements('[data-nav-link]');
-  const pages = getAllElements('[data-page]');
+  const navLinks = document.querySelectorAll('[data-nav-link]');
+  const pages = document.querySelectorAll('[data-page]');
+
+  console.log("Navigation chargée : ", navLinks.length, "boutons trouvés.");
 
   navLinks.forEach(link => {
-    link.addEventListener('click', function() {
-      // 1. Récupérer le texte du bouton cliqué (ex: "Parcours")
-      const targetPageName = this.innerHTML.toLowerCase().trim();
+    link.addEventListener('click', function () {
+      const target = this.dataset.navLink.toLowerCase(); // ex: 'resume'
+      console.log("Clic sur :", target);
 
-      // 2. Mettre à jour la classe active sur les liens
+      // 1. Activer le bouton
       navLinks.forEach(l => l.classList.remove('active'));
       this.classList.add('active');
 
-      // 3. Afficher la bonne page
+      // 2. Trouver et activer la page correspondante
       let pageFound = false;
       pages.forEach(page => {
-        if (page.dataset.page.toLowerCase() === targetPageName) {
+        const pageName = page.dataset.page.toLowerCase();
+        
+        // ASTUCE : On vérifie si ça correspond, OU si c'est le cas spécial Parcours/Resume
+        if (pageName === target || (target === 'resume' && pageName === 'parcours')) {
           page.classList.add('active');
-          pageFound = true;
           window.scrollTo(0, 0);
+          pageFound = true;
         } else {
           page.classList.remove('active');
         }
       });
-      
-      if(!pageFound) console.warn("Aucune page trouvée pour : " + targetPageName);
+
+      if (!pageFound) console.error("ERREUR : Aucune page trouvée pour l'ID : " + target);
     });
   });
 }
@@ -197,7 +204,7 @@ function setupFilters() {
   const projects = getAllElements('.project-item');
 
   filterBtns.forEach(btn => {
-    btn.addEventListener('click', function() {
+    btn.addEventListener('click', function () {
       filterBtns.forEach(b => b.classList.remove('active'));
       this.classList.add('active');
 
@@ -217,8 +224,8 @@ function setupFilters() {
 function setupSidebar() {
   const sidebar = getElement('.sidebar');
   const sidebarBtn = getElement('[data-sidebar-btn]');
-  
-  if(sidebarBtn && sidebar) {
+
+  if (sidebarBtn && sidebar) {
     sidebarBtn.addEventListener('click', () => {
       sidebar.classList.toggle('active');
     });
@@ -229,13 +236,13 @@ function setupSidebar() {
 document.addEventListener('DOMContentLoaded', () => {
   // 1. D'abord on charge la navbar
   loadNavbar();
-  
+
   // 2. Ensuite le contenu
   loadProfile();
   loadAbout();
   loadResume();
   loadPortfolio();
-  
+
   // 3. Enfin on active les écouteurs d'événements (après que le HTML soit généré)
   setupNavigation();
   setupSidebar();

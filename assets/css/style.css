@@ -730,3 +730,93 @@ body.dark-mode .content-card {
     visibility: visible; 
   }
 }
+
+/* --- FIX NAVIGATION --- */
+
+/* 1. Par défaut, on cache TOUS les articles (pages) */
+article {
+  display: none !important;
+}
+
+/* 2. On affiche SEULEMENT celui qui a la classe 'active' */
+article.active {
+  display: block !important;
+  animation: fadeEffect 0.5s ease;
+}
+
+/* 3. Petit effet d'apparition */
+@keyframes fadeEffect {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 4. Style pour le bouton actif (couleur jaune/dorée par exemple) */
+.navbar-link.active {
+  color: #FFDB70; /* Ou ta couleur principale */
+  opacity: 1;
+}
+
+/* ==============================================
+   FIX NAVIGATION & LAYOUT (VERSION FINALE)
+   ============================================== */
+
+/* 1. CONTENEUR PRINCIPAL */
+.main-content {
+  position: relative; /* Référence pour la navbar */
+  margin: 0; /* Reset */
+}
+
+/* 2. GESTION DE L'AFFICHAGE DES PAGES */
+article {
+  display: none; /* Caché par défaut */
+  width: 100%;
+  min-height: 400px;
+  /* Animation douce */
+  animation: fade 0.5s ease backwards;
+}
+
+/* Force l'affichage UNIQUEMENT quand la classe active est là */
+article.active {
+  display: block !important;
+}
+
+@keyframes fade {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* 3. POSITIONNEMENT DE LA NAVBAR (Desktop) */
+@media (min-width: 1024px) {
+  
+  /* On force la Navbar à se coller en haut à droite du BLOC, pas de l'écran */
+  .navbar {
+    position: absolute !important;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    width: auto;
+    
+    /* Design "Coin" */
+    background: var(--bg-card); /* Même couleur que la carte */
+    border-radius: 0 20px 0 20px;
+    border-bottom: 1px solid var(--border-color);
+    border-left: 1px solid var(--border-color);
+    border-top: none;
+    border-right: none;
+    
+    padding: 0 20px;
+    z-index: 10; /* Au-dessus du texte */
+  }
+  
+  /* On s'assure que le titre de l'article ne passe pas sous le menu */
+  article {
+    padding-top: 30px; 
+    position: relative;
+  }
+  
+  /* Ajustement spécifique pour que le titre ne touche pas le menu */
+  .article-title {
+    margin-top: 10px;
+  }
+}
