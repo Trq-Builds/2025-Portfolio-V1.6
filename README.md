@@ -79,20 +79,21 @@
 
 - ` 📄 ` **︲Documents d’annexes fournis**
 
+- ` 🤖 ` **︲Claude-3-7-Sonnet -`20250219-Thinking-32K`** ︲[`🌐`](https://claude.ai/)
 - ` 🤖 ` **︲Claude-sonnet-4-5-`20250929-thinking-32k`** ︲[`🌐`](https://claude.ai/)
+- ` 🌐 ` **︲Code Source:** codewithsadee/vcard-personal-portfolio ︲[`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
+- ` 🤖 ` **︲Gemini 3.0 PRO** ︲[`🌐`](https://gemini.google.com/app)
+- ` 😺 ` **︲GitHub Dekstop** ︲[`🌐`](https://github.com/apps/desktop)
 - ` 😺 ` **︲GitHub Dekstop** ︲[`🌐`](https://github.com/apps/desktop)
 - ` 🤖 ` **︲GPT-5** ︲[`🌐`](https://chatgpt.com/)
-- ` 🤖 ` **︲Claude-3-7-Sonnet -`20250219-Thinking-32K`** ︲[`🌐`](https://claude.ai/)
-- ` 😺 ` **︲GitHub Dekstop** ︲[`🌐`](https://github.com/apps/desktop)
 - ` 🤖 ` **︲GPT-5.1** ︲[`🌐`](https://chatgpt.com/)
-- ` 🤖 ` **︲Gemini 3.0 PRO** ︲[`🌐`](https://gemini.google.com/app)
 - ` 🤖 ` **︲lmarena.ai** ︲[`🌐`](https://lmarena.ai/)
 - ` 🌐 ` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
-- ` 🌐 ` **︲Code Source:** codewithsadee/vcard-personal-portfolio ︲[`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
+- ` 🌐 ` **︲Repo Tree Generator** ︲[`🌐`](https://ascii-repotree.vercel.app/generator)
 - ` 🌐 ` **︲VisualStudioCode (`IDE`)** ︲[`🌐`](https://code.visualstudio.com/)
-- ` 🌐 ` **︲Repo Tree Generator** [`🌐`](https://ascii-repotree.vercel.app/generator)
 
 --- 
+
 
 
 
