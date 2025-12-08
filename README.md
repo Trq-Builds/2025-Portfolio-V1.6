@@ -85,6 +85,7 @@
 
 ## ` 🧰 `︲Outils et Ressources utilisés.
 
+---
 
 > [!TIP]
 > Vous trouverez ici la liste de tous les outils, ressources et services utilisés pour la création de ce portfolio.  
@@ -105,6 +106,7 @@
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
