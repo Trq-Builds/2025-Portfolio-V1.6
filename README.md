@@ -1,6 +1,8 @@
 # ` 👤 `︲2025-Portfolio-V1.8
 
-![Status](https://img.shields.io/website?url=https://tariq-laab.netlify.app&label=site)
+<p align="center">
+  <img src="https://img.shields.io/website?url=https://tariq-laab.netlify.app&label=site&style=for-the-badge" alt="Site Status">
+</p>
 
 ---
 
