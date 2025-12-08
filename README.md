@@ -74,11 +74,9 @@
 - ` 🟢 `︲Hébergement prévu sur [Netlify](https://www.netlify.com/) avec déploiement ultra rapide.
 
 `🚧`︲**Limitations actuelles :**
-- ` 🟡 `︲Section Portfolio à remplir avec les projets.
+- ` 🟡 `︲**Section Portfolio à remplir avec les projets.**
 
-- ` 🟡 `︲Rendre la section Projets plus Jolie.
-
-- ` 🟡 `︲Multiples fix à faire question QoL.
+- ` 🟡 `︲**Rendre la section Projets plus Jolie.**
 
 ---
 
@@ -105,6 +103,7 @@
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
