@@ -14,7 +14,7 @@
 
 - ` 👤 `︲**Auteur :** *Trq-Builds*
 
-- ` 🟢 `︲**Statut :** **ON**
+- ` 🟢 `︲**Statut :** **`ON`**
 
 - ` 🟡 `︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 
@@ -105,6 +105,7 @@
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
