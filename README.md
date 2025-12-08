@@ -98,9 +98,10 @@
 - ` 🤖 ` **︲lmarena.ai** ︲[`🌐`](https://lmarena.ai/)
 - ` 🌐 ` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
 - ` 🌐 ` **︲Repo Tree Generator** ︲[`🌐`](https://ascii-repotree.vercel.app/generator)
-- ` 🌐 ` **︲VisualStudioCode (`IDE`)** ︲[`🌐`](https://code.visualstudio.com/)
+- ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
