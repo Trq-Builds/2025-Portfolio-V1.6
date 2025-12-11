@@ -157,6 +157,10 @@ style.css
     ├── Mobile First (ou Desktop First).
     ├── Breakpoints multiples.
     └── Sidebar collapsible.
+    
+```
+
+---
 
 ```
 `🚀` ︲**Technique Résumée :**
@@ -214,6 +218,7 @@ style.css
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
