@@ -97,16 +97,16 @@
 
 ```markdown
 index.html
-├── Structure sémantique HTML5
-├── Points d'ancrage pour injection JS (id="...")
-└── Conteneurs vides remplis dynamiquement
+├── Structure sémantique HTML5.
+├── Points d'ancrage pour injection JS (id="...").
+└── Conteneurs vides remplis dynamiquement.
 
 style.css
-├── Variables CSS (--custom-properties) pour le theming
-├── Layout Flexbox/Grid
-├── Media Queries (Responsive Design)
-├── Transitions & Animations
-└── Thème sombre par défaut
+├── Variables CSS (--custom-properties) pour le theming.
+├── Layout Flexbox/Grid.
+├── Media Queries (Responsive Design).
+├── Transitions & Animations.
+└── Thème sombre par défaut.
 ```
 --- 
 
@@ -221,4 +221,5 @@ style.css
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
