@@ -51,6 +51,16 @@
 ├── index.html                 # Page principale du site (la base sur laquelle tout s'affiche).
 ├── index.txt                  # Notes personnelles / brouillon.
 └── README.md                  # Mode d'emploi du projet pour les visiteurs GitHub.
+
+🔑︲Légende Rapide :
+
+| Icône | Signification |
+|-------|---------------|
+| 📦 | Dossier de ressources |
+| 🎨 | Apparence visuelle |
+| 🖼️ | Images et médias |
+| ⚙️ | Code qui fait fonctionner le site |
+
 ```
 
 ---
@@ -207,6 +217,7 @@ style.css
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
