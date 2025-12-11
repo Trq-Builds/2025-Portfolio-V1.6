@@ -163,16 +163,16 @@ style.css
 
 ```markdown
 ╔═══════════════════════════════════════════╗
-║            FRONTEND STACK                  ║
+║            FRONTEND STACK                 ║
 ╠═══════════════════════════════════════════╣
-║  HTML5    │  Structure sémantique          ║
-║  CSS3     │  Custom Properties + Flexbox   ║
-║  JS ES6+  │  Modules, DOM API, localStorage║
+║  HTML5    │  Structure sémantique         ║
+║  CSS3     │  Custom Properties + Flexbox  ║
+║  JS ES6+  │  Modules, DOM API,localStorage║
 ╠═══════════════════════════════════════════╣
-║            INFRASTRUCTURE                  ║
+║            INFRASTRUCTURE                 ║
 ╠═══════════════════════════════════════════╣
 ║  Netlify  │  CDN + HTTPS + Deploy auto    ║
-║  Git      │  Versioning                    ║
+║  Git      │  Versioning                   ║
 ╚═══════════════════════════════════════════╝
 
 ```
@@ -214,6 +214,7 @@ style.css
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
