@@ -16,7 +16,7 @@
 
 - ` 🟢 `︲**Statut :** **`ON`**
 
-- ` 🟤 `︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
+- ` 🟣 `︲**Source/Fork :** https://github.com/codewithsadee/vcard-personal-portfolio
 
 - ` 🌐 `︲**Lien :** https://tariq-laab.netlify.app
 
@@ -182,15 +182,15 @@ style.css
 
 --- 
 
-## `🔶`︲**Améliorations prévues :**
+## ` 🔻 `︲**Améliorations prévues :**
 
-- ` 🟡 `︲**Section Portfolio à remplir avec les projets...**
+- ` 🔴 `︲**Section Portfolio à remplir avec les projets...**
 
-- ` 🟡 `︲**Rendre la section Projets plus Jolie...**
+- ` 🔴 `︲**Rendre la section Projets plus Jolie...**
 
-- ` 🟡 `︲**Rajouter une Rubrique "Stage".**
+- ` 🔴 `︲**Rajouter une Rubrique "Stage".**
 
-- ` 🟡 `︲**Ajout des Items suivants : TP-DNS, TP-KALI, Item-GLPI, Install-Debian, Install-Windows-11-Server, Install Windows-11, dans la section "Projets" avec Documentation Technique .MD sur GitHub pour chaque Item.**
+- ` 🔴 `︲**Ajout des Items suivants : TP-DNS, TP-KALI, Item-GLPI, Install-Debian, Install-Windows-11-Server, Install Windows-11, dans la section "Projets" avec Documentation Technique .MD sur GitHub pour chaque Item.**
 
 ---
 
@@ -230,6 +230,7 @@ Notes pour moi :
 ```
 
 ---
+
 
 
 
