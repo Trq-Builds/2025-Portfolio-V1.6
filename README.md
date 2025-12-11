@@ -52,12 +52,16 @@
 ├── index.txt                  # Notes personnelles / brouillon.
 └── README.md                  # Mode d'emploi du projet pour les visiteurs GitHub.
 
+--- 
+
 🔑︲Légende Rapide :
 
 📦︲Dossier de ressources.
 🎨︲Apparence visuelle.
 🖼️︲Images et médias.
 ⚙️︲Code qui fait fonctionner le site.
+
+---
 
 ```
 
@@ -217,3 +221,4 @@ style.css
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
