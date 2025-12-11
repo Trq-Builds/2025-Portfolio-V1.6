@@ -225,6 +225,9 @@ Notes :
 + Tests unitaires (Jest)
 + Versioning des assets (cache busting)
 
+---
+
+
 
 
 
