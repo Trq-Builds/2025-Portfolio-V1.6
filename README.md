@@ -75,10 +75,14 @@
 
 --- 
 
-`🚧`︲**Limitations actuelles :**
+`🔶`︲**Améliorations prévues :**
 - ` 🟡 `︲**Section Portfolio à remplir avec les projets...**
 
 - ` 🟡 `︲**Rendre la section Projets plus Jolie...**
+
+- ` 🟡 `︲**Rajouter une Rublique "Stage".**
+
+- ` 🟡 `︲**Ajout des Items suivants : TP-DNS, TP-KALI, Item-GLPI, Install Debian, Install Windows Server, dans la section "Projets" avec Documentation Technique .MD pour chaque Item.**
 
 ---
 
@@ -105,6 +109,7 @@
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 --- 
+
 
 
 
