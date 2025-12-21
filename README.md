@@ -190,7 +190,7 @@ style.css
 
 - ` 🔴 `︲**Rajouter une Rubrique "Stage".**
 
-- ` 🔴 `︲**Ajout des Items suivants : TP-DNS, TP-KALI, Item-GLPI, Install-Debian, Install-Windows-11-Server, Install Windows-11, dans la section "Projets" avec Documentation Technique .MD sur GitHub pour chaque Item.**
+- ` 🔴 `︲**Ajout des Items suivants : TP-DNS, TP-KALI, Item-GLPI, Install-Debian, Install-Windows-11-Server, Install Windows-11, dans la section "Projets" avec __Documentation Technique .MD sur GitHub pour chaque Item__.**
 
 ---
 
@@ -230,5 +230,6 @@ Notes pour moi :
 ```
 
 ---
+
 
 
