@@ -217,7 +217,8 @@ style.css
 
 ---
 
-Notes pour moi :
+`Notes`
+
 ```
 
 + Minification CSS/JS (build process)
@@ -230,6 +231,7 @@ Notes pour moi :
 ```
 
 ---
+
 
 
 
