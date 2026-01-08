@@ -188,6 +188,8 @@ style.css
 
 - ` 🟡 `︲**Ajout des Items suivants : TP-DNS, TP-KALI, Item-GLPI, Install-Debian, Install-Windows-11-Server, Install Windows-11, dans la section "Projets" avec __Documentation Technique .MD sur GitHub pour chaque Item__.**
 
+- ` 🟡 `︲**Amélioration en cours du module « OUTILS » nécessitant une réécriture technique, des compléments fonctionnels et une documentation plus précise en raison d’un contenu incomplet et insuffisamment explicité.**
+
 ---
 
 ## ` 🧰 `︲Outils et Ressources utilisés :
@@ -213,4 +215,5 @@ style.css
 - ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
 
 ---
+
 
