@@ -192,6 +192,7 @@ style.css
 
 - ` 🔴 `︲**Ajout des Items suivants : TP-DNS, TP-KALI, Item-GLPI, Install-Debian, Install-Windows-11-Server, Install Windows-11, dans la section "Projets" avec __Documentation Technique .MD sur GitHub pour chaque Item__.**
 - ` 🔴 `︲Modification du code couleur du site, problèmes de lisibilité...
+- ` 🔴 `︲Ajout d’une rubrique « `OUTILS` » où j’explique et présente les outils que j’utilise au quotidien pour mon organisation.
 
 ---
 
@@ -232,6 +233,7 @@ style.css
 ```
 
 ---
+
 
 
 
