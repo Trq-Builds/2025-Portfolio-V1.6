@@ -204,16 +204,17 @@ style.css
 
 - ` 📄 ` **︲Documents d’annexes fournis**
 
-- ` 🤖 ` **︲Claude-`3.7`-`Sonnet` -`20250219-Thinking-32K`** ︲[`🌐`](https://claude.ai/)
+- ` 🤖 ` **︲`Claude-3.7-Sonnet -20250219-Thinking-32K`** ︲[`🌐`](https://claude.ai/)
 - ` 🌐 ` **︲Code Source:** **`codewithsadee/vcard-personal-portfolio`** ︲[`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
-- ` 🤖 ` **︲Gemini `3.0` `PRO`** ︲[`🌐`](https://gemini.google.com/app)
-- ` 🤖 ` **︲GPT-`5.1`** ︲[`🌐`](https://chatgpt.com/)
-- ` 🤖 ` **︲LmArena.AI** ︲[`🌐`](https://lmarena.ai/)
-- ` 🌐 ` **︲Netlifly** ︲[`🌐`](https://app.netlify.com/)
-- ` 🌐 ` **︲RepoTreeGenerator** ︲[`🌐`](https://ascii-repotree.vercel.app/generator)
-- ` 🌐 ` **︲Uiverse.io** ︲[`🌐`](https://uiverse.io/)
-- ` 🌐 ` **︲VisualStudioCode** ︲[`🌐`](https://code.visualstudio.com/)
+- ` 🤖 ` **︲`Gemini 3.0 PRO`** ︲[`🌐`](https://gemini.google.com/app)
+- ` 🤖 ` **︲`GPT-5.1`** ︲[`🌐`](https://chatgpt.com/)
+- ` 🤖 ` **︲`LmArena.AI`** ︲[`🌐`](https://lmarena.ai/)
+- ` 🌐 ` **︲`Netlifly`** ︲[`🌐`](https://app.netlify.com/)
+- ` 🌐 ` **︲`RepoTreeGenerator`** ︲[`🌐`](https://ascii-repotree.vercel.app/generator)
+- ` 🌐 ` **︲`Uiverse.io`** ︲[`🌐`](https://uiverse.io/)
+- ` 🌐 ` **︲`VisualStudioCode`** ︲[`🌐`](https://code.visualstudio.com/)
 
 ---
+
 
 
