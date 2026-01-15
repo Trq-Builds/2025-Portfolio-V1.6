@@ -184,7 +184,7 @@ style.css
 
 ## ` 🔻 `︲**Améliorations prévues :**
 
-- ` 🔴 `︲**Rendre la section Projets plus Jolie...**
+- ` 🔴 `︲Stylisé larRubrique Projets, c'est pas beau !
 
 - ` 🟡 `︲Intégration de nouveaux items au sein de la section « Projets », incluant : TP-DNS, TP-KALI, Item-GLPI, Install-Debian, Install-Windows-11-Server et Install-Windows-11, accompagnés pour chacun d’une documentation technique au format Markdown (.MD) centralisée sur GitHub.
 
@@ -215,6 +215,7 @@ style.css
 - ` 🌐 ` **︲`VisualStudioCode`** ︲[`🌐`](https://code.visualstudio.com/)
 
 ---
+
 
 
 
