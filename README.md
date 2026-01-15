@@ -202,7 +202,7 @@ style.css
 
 ---
 
-- ` 📄 ` **︲Documents d’annexes fournis**
+-  `🗃️ ︲ 🌐` **︲Outils, Ressources et Services :**
 
 - ` 🤖 ` **︲`Claude-3.7-Sonnet -20250219-Thinking-32K`** ︲[`🌐`](https://claude.ai/)
 - ` 🌐 ` **︲Code Source:** **`codewithsadee/vcard-personal-portfolio`** ︲[`🌐`](https://github.com/codewithsadee/vcard-personal-portfolio)
@@ -215,6 +215,7 @@ style.css
 - ` 🌐 ` **︲`VisualStudioCode`** ︲[`🌐`](https://code.visualstudio.com/)
 
 ---
+
 
 
 
